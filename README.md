@@ -16,7 +16,7 @@
 
 Aquí puedes ver de forma gráfica los lenguajes que más utilizo en todos mis repositorios:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-aqui&layout=compact&theme=tokyonight)](https://github.com/jesuspalominoguzman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jesuspalominoguzman-aqui&layout=compact&theme=tokyonight)](https://github.com/jesuspalominoguzman)
 
 ***
 
