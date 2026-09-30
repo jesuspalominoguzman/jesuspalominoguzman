@@ -12,14 +12,6 @@
 
 ***
 
-## 📊 Mis Estadísticas y Lenguajes Principales
-
-Aquí puedes ver de forma gráfica los lenguajes que más utilizo en todos mis repositorios:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuspalominoguzman&layout=compact&theme=tokyonight)
-
-***
-
 ## 🛠️ Stack Tecnológico & Habilidades Clave
 
 * **Frontend:** HTML5, CSS3, JavaScript, **Angular** y tecnologías de interfaz web.
